@@ -9,12 +9,12 @@ Enjoy our game!
 
 ### REQUIREMENTS
 
-• Linux system with OpenGL (up to date)
-• Cmake (version 3.6 min)
-• C++ compiler
-• Graphical environment (X server)
+• Linux system with OpenGL (up to date)<br/>
+• Cmake (version 3.6 min)<br/>
+• C++ compiler<br/>
+• Graphical environment (X server)<br/>
 
 ### HOW TO INSTALL BOMB'ERMAN?
 
-• Run the script `./install.sh`
+• Run the script `./install.sh`<br/>
 • Run `indie_studio` from your Terminal and there you go!
