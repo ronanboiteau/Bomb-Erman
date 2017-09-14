@@ -1,0 +1,8 @@
+game_params_file_location:indie_persistent_data/settings/settings.sqgp
+saves_directory_location:indie_persistent_data/saves
+scores_directory_location:indie_persistent_data/scores
+settings_file_location:indie_persistent_data/options/options.sqo
+assets_directory_location:indie_ressources/assets
+musics_directory_location:indie_ressources/musics
+sounds_directory_location:indie_ressources/sounds
+fonts_directory_location:indie_ressources/fonts

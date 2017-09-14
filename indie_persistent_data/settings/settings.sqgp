@@ -1,0 +1,22 @@
+map_size:11
+map_density:50
+player_one_existence:1
+player_one_ai:1
+player_one_color:0
+player_one_script:2
+player_one_name:Player 1
+player_two_existence:1
+player_two_ai:1
+player_two_color:1
+player_two_script:2
+player_two_name:Player 2
+player_three_existence:1
+player_three_ai:1
+player_three_color:2
+player_three_script:2
+player_three_name:Player 3
+player_four_existence:1
+player_four_ai:0
+player_four_color:3
+player_four_script:3
+player_four_name:Player 4
