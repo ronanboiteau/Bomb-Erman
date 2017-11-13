@@ -18,3 +18,12 @@ Enjoy our game!
 
 • Run the script `./install.sh`<br/>
 • Run `indie_studio` from your Terminal and there you go!
+
+## Authors
+
+* **Ronan Boiteau** ([GitHub](https://github.com/ronanboiteau) / [LinkedIn](https://www.linkedin.com/in/ronanboiteau/))
+* **Erwan Simon**  ([GitHub](https://github.com/gladtobeinsane)
+* **Oscar Stefanini** ([GitHub](https://github.com/ostefanini)
+* **Antoine Roche**  ([GitHub](https://github.com/antoine-roche)
+* **Sélim Rinaz** ([GitHub](https://github.com/rinaz-a)
+* **Fanny Tavart**  ([GitHub](https://github.com/fannytavart) / [LinkedIn](https://www.linkedin.com/in/fannytavart/))
