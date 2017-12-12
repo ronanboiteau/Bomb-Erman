@@ -3,21 +3,22 @@
 Hello and welcome to Bomb'Erman!
 
 This Project was created with love by Ronan Boiteau, Oscar Stefanini, Erwan Simon, Fanny Tavart, Antoine Roche & Selim Rinaz aka Salty Queens.
-We used Irrlicht and IrrKlang libraries.
+
+Bomb'Erman uses [Irrlicht](http://irrlicht.sourceforge.net/) and [irrKlang](https://www.ambiera.com/irrklang/) libraries. For your convenience, these lightweight libraries are shipped with Bomb'Erman. No need to install them!
 
 Enjoy our game!
 
-### REQUIREMENTS
+## Requirements
 
-• Linux system with OpenGL (up to date)<br/>
-• Cmake (version 3.6 min)<br/>
-• C++ compiler<br/>
-• Graphical environment (X server)<br/>
+ - [A Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) with [OpenGL](https://www.opengl.org/) (up to date)
+ - [CMake](https://cmake.org/) (version 3.6 min)
+ - [G++](https://gcc.gnu.org/)
+ - Graphical environment ([X server](https://en.wikipedia.org/wiki/X_Window_System))
 
-### HOW TO INSTALL BOMB'ERMAN?
+## How to install Bomb'Erman?
 
-• Run the script `./install.sh`<br/>
-• Run `indie_studio` from your Terminal and there you go!
+ - Run the script `./install.sh`
+ - Run `indie_studio` from your Terminal and have fun!
 
 ## Authors
 
