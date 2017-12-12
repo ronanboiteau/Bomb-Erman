@@ -22,9 +22,9 @@ Enjoy our game!
 
 ## Features
 
- - Play against our artificial intelligences (with different difficulty levels)!
+ - Try to defeat our artificial intelligences from the easy one to the hard one!
  - Save your game and finish it later!
- - Play alone or with your friends: Bomb'Erman works from 1 to 4 players!
+ - Play alone or with your friends: you can play Bomb'Erman from 1 to 4 players!
  - Enjoy our original soundtrack!
  - Try to rank first in the highscores system!
 
