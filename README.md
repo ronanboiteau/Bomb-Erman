@@ -30,7 +30,7 @@ Enjoy our game!
 
 ## Authors
 
-* **Antoine Roche**  ([GitHub](https://github.com/antoine-roche))
+* **Antoine Roche**  ([GitHub](https://github.com/antoine-roche) / [LinkedIn](https://www.linkedin.com/in/rocheantoine/))
 * **Erwan Simon**  ([GitHub](https://github.com/erwan-simon) / [LinkedIn](https://www.linkedin.com/in/erwan-simon/))
 * **Fanny Tavart**  ([GitHub](https://github.com/fannytavart) / [LinkedIn](https://www.linkedin.com/in/fannytavart/))
 * **Oscar Stefanini** ([GitHub](https://github.com/ostefanini))
