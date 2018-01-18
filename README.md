@@ -2,9 +2,9 @@
 
 Hello and welcome to Bomb'Erman!
 
-This Bomberman-like game was created with love by [Ronan Boiteau](https://github.com/ronanboiteau), [Oscar Stefanini](https://github.com/ostefanini), [Erwan Simon](https://github.com/gladtobeinsane), [Fanny Tavart](https://github.com/fannytavart), [Antoine Roche](https://github.com/antoine-roche) & [Selim Rinaz](https://github.com/rinaz-a) aka Salty Queens.
+Bomb'Erman is a Bomberman-like game that was created using [Irrlicht](http://irrlicht.sourceforge.net/) (graphics) and [irrKlang](https://www.ambiera.com/irrklang/) (sound) libraries. For your convenience, these lightweight libraries are shipped with Bomb'Erman. No need to install them!
 
-Bomb'Erman uses [Irrlicht](http://irrlicht.sourceforge.net/) (graphics) and [irrKlang](https://www.ambiera.com/irrklang/) (sound) libraries. For your convenience, these lightweight libraries are shipped with Bomb'Erman. No need to install them!
+<img alt="Bomb'Erman Intro" src="https://i.imgur.com/jllAhem.gif" width="500" height="500"/>
 
 Enjoy our game!
 
