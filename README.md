@@ -8,14 +8,16 @@ Bomb'Erman is a Bomberman-like game that was created using [Irrlicht](http://irr
 
 Enjoy our game!
 
-## Requirements
+## Getting started
+
+### Requirements
 
  - A [Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) with [OpenGL](https://www.opengl.org/) (up to date)
  - [CMake](https://cmake.org/) (version 3.6 min)
  - [G++](https://gcc.gnu.org/)
  - A graphical environment ([X server](https://en.wikipedia.org/wiki/X_Window_System))
 
-## How to install Bomb'Erman?
+### How to install Bomb'Erman?
 
  - Run the script `./install.sh`
  - Run `indie_studio` from your Terminal and have fun!
