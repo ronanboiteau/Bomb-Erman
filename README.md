@@ -17,10 +17,10 @@ Enjoy our game!
  - [G++](https://gcc.gnu.org/)
  - A graphical environment ([X server](https://en.wikipedia.org/wiki/X_Window_System))
 
-### How to install Bomb'Erman?
+### How to install & run Bomb'Erman?
 
- - Run the script `./install.sh`
- - Run `indie_studio` from your Terminal and have fun!
+ - Run the script `./install.sh` to install Bomb'Erman
+ - Then you can run `indie_studio` from your Terminal to launch Bomb'Erman
 
 ## Features
 
