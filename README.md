@@ -28,7 +28,7 @@ Enjoy our game!
  - Save your game and finish it later!
  - Play alone or with your friends: you can play Bomb'Erman from 1 to 4 players!
  - Enjoy our original soundtrack!
- - Try to rank first in the highscores system!
+ - Try to rank first in the highscore system!
 
 ## Authors
 
