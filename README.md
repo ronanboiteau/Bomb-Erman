@@ -5,6 +5,7 @@ Hello and welcome to Bomb'Erman!
 Bomb'Erman is a Bomberman-like game that was created using [Irrlicht](http://irrlicht.sourceforge.net/) (graphics) and [irrKlang](https://www.ambiera.com/irrklang/) (sound) libraries. For your convenience, these lightweight libraries are shipped with Bomb'Erman. No need to install them!
 
 <img alt="Bomb'Erman Intro" src="/artwork/Bomb-Erman-Intro.gif" width="600" height="600"/>
+<img alt="Bomb'Erman Intro" src="/artwork/game_example.gif" width="600" height="600"/>
 
 Enjoy our game!
 
