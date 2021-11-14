@@ -31,15 +31,6 @@ Enjoy our game!
  - Enjoy our original soundtrack!
  - Try to rank first in the highscore system!
 
-## Authors
-
-* **Antoine Roche**  ([GitHub](https://github.com/antoine-roche) / [LinkedIn](https://www.linkedin.com/in/rocheantoine/))
-* **Erwan Simon**  ([GitHub](https://github.com/erwan-simon) / [LinkedIn](https://www.linkedin.com/in/erwan-simon/))
-* **Fanny Tavart**  ([GitHub](https://github.com/fannytavart) / [LinkedIn](https://www.linkedin.com/in/fannytavart/))
-* **Oscar Stefanini** ([GitHub](https://github.com/ostefanini))
-* **Ronan Boiteau** ([GitHub](https://github.com/ronanboiteau) / [LinkedIn](https://www.linkedin.com/in/ronanboiteau/))
-* **Sélim Rinaz** ([GitHub](https://github.com/rinaz-a) / [LinkedIn](https://www.linkedin.com/in/selim-rinaz/))
-
 ## Acknowledgments
 
 * **Laura Tavart**  (Salty Queens logo)
